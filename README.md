@@ -13,10 +13,10 @@ We need to create a website in which we have connected the MYQL database with th
 <h3>The Short Description of Our Project</h3>
 <hr>
 The roadmap of our project is<br><br>
-<img src="roadmap.PNG">
+<img src="Roadmap.jpeg">
 <br><br>
 The first page of our website give us a brief idea about the services provided by us.<br><br>
-<img src="Services.PNG"><br><br>
+<img src="Clean-Water-Analysis/images/Services.PNG"><br><br>
 We have predicted whether the water is safe or not by training a machine learning model(Random Forest Classifier) and the data from the database provided by the user in form 1 will also be predicted.<br><br>
 <img src = "form.PNG" width=400 height=300>&nbsp;&nbsp;<img src="ML Pred1.PNG" width=400 height=300>
 <br><br>
