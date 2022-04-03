@@ -8,4 +8,5 @@ We have predicted the quality of water using Machine learning algorithm. We have
 We need to create a website in which we have connected the MYQL database with the website using PHP and storing the data in the database. We need to create a machine learning model which will predict whether the water is safe for drinking or not. The data will be taken from the user and drinking quality of water will be predicted through the machine learning model.
 <br>
 <h2>Demo Video of My Project</h2><hr>
-<a href="https://youtu.be/uexqmdPK7Fk" rel="nofollow"></a>
+<a href="https://youtu.be/uexqmdPK7Fk" rel="nofollow"><img src="Clean-Water-Analysis
+/images/Clean Water and Sanitation.png" alt="Watch the video" style="max-width:100%;"></a>
