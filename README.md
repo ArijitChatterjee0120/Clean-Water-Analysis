@@ -21,6 +21,6 @@ We have predicted whether the water is safe or not by training a machine learnin
 <img src = "form.PNG" width=400 height=300>&nbsp;&nbsp;<img src="ML Pred1.PNG" width=400 height=300>
 <br><br>
 The database which contains all the data is given below:- <br><br>
-<img src="database.PNG">
+<img src="Clean-Water-Analysis/database.PNG">
 <br>
 Please import the db files in MYSQL and then use the folder.
