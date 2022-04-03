@@ -19,10 +19,5 @@ The first page of our website give us a brief idea about the services provided b
 <img src="https://github.com/ArijitChatterjee0120/Clean-Water-Analysis/blob/main/images/services-img-01.png">
 <img src="https://github.com/ArijitChatterjee0120/Clean-Water-Analysis/blob/main/images/services-img-02.png">
 <img src="https://github.com/ArijitChatterjee0120/Clean-Water-Analysis/blob/main/images/services-img-03.png"><br><br>
-We have predicted whether the water is safe or not by training a machine learning model(Random Forest Classifier) and the data from the database provided by the user in form 1 will also be predicted.<br><br>
-<img src = "form.PNG" width=400 height=300>&nbsp;&nbsp;<img src="ML Pred1.PNG" width=400 height=300>
-<br><br>
-The database which contains all the data is given below:- <br><br>
-<img src="Clean-Water-Analysis/images/database.PNG">
-<br>
+We have predicted whether the water is safe or not by training a machine learning model(Random Forest Classifier) and the data from the database provided by the user in form 1 will also be predicted
 Please import the db files in MYSQL and then use the folder.
