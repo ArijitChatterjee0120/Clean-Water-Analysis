@@ -9,4 +9,4 @@ We need to create a website in which we have connected the MYQL database with th
 <br>
 <h2>Demo Video of My Project</h2><hr>
 <a href="https://youtu.be/uexqmdPK7Fk" rel="nofollow"><img src="Clean-Water-Analysis
-/images/Clean Water and Sanitation.png" alt="Watch the video" style="max-width:100%;"></a>
+/images/Clean Water and Sanitation.png" alt="CLICK HERE TO WATCH THE VIDEO" style="max-width:100%;"></a>
